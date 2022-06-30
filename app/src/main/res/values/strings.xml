@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TBC_Task_6</string>
+    <string name="user_successfully_added">User added successfully</string>
+    <string name="user_successfully_updated">User updated successfully</string>
+    <string name="user_successfully_deleted">User deleted successfully</string>
+    <string name="empty_fields">All fields requared</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="user_already_exists">User already exists</string>
+    <string name="user_doesnot_exist">User does not exits</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="add_user">Add User</string>
+    <string name="delete_user">Delete User</string>
+    <string name="update_user">Update User</string>
+    <string name="deleted_users">Deleted Users:</string>
+    <string name="zero">0</string>
+    <string name="active_users">Active Users:</string>
+
+</resources>
